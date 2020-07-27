@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\4f2d2581b7be09de14b0adb9b1ef6701\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\dc61ff686d372edf927d285e4205a376\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\12580200ee2810fea23a7e27075ee4c6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\5e44379c0d348ae4ce917bf1712ae36f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\afbacaf531e02a9a047f6ed498c3a896\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\6e814cab60c086820033a88e75221f9a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\35a4ddb118bcdaa67332610637ef784a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\f0584f5e3df84a1cfc04dd74e4a4d5fa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\cba4919068a53e17a5b320649b7b1af4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\53ed3d756fb01e164d7193bc041b735a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\38c9aff6c8af84f9cb91bfdcf6dbb6c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\377ebe43b72497a3df3402f86690a2e7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\198b9cf99a304ed71617ba256860d862\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\c2a399d1ea0a4904a4eb8f8ed9e3e2e4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\6b3a73c611c9734da40f2d528cbdfd83\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\b2b503c29a4929defc89feb816ba612e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\b189a5c1911c00e68e4eb5c07673bdb2\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\576bc79e90b5296c76dd99545cde6017\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\31923fb8d4da0ea7feb47fa7a2d895a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\7c50e61958f59589787d5ce3b59f836e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\170bcac148f97fa4492ab901f9fc9f78\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\c506851f8b0cb7752eb8735fd44ea4ad\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\1a2dc925ef889831caa2df1e820b81c5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\465a94aee2bd7a02139ea23322b381c8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\c40f88a4c092363d22685e1b9d2634bd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\d8fbb11aa622bb06a611c14ff68ec995\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\0b54a039862bdb68d6df513f7d716017\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\dc61ff686d372edf927d285e4205a376\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\dc61ff686d372edf927d285e4205a376\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\b2b503c29a4929defc89feb816ba612e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\b2b503c29a4929defc89feb816ba612e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\b189a5c1911c00e68e4eb5c07673bdb2\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\b189a5c1911c00e68e4eb5c07673bdb2\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\b2b503c29a4929defc89feb816ba612e\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.guessthenumber.StartUpActivity
+ADDED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml:12:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.guessthenumber.MainActivity
+ADDED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml:19:9-21:20
+	android:name
+		ADDED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml:19:19-47
+uses-sdk
+INJECTED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\4f2d2581b7be09de14b0adb9b1ef6701\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\4f2d2581b7be09de14b0adb9b1ef6701\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\dc61ff686d372edf927d285e4205a376\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\dc61ff686d372edf927d285e4205a376\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\12580200ee2810fea23a7e27075ee4c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\12580200ee2810fea23a7e27075ee4c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\5e44379c0d348ae4ce917bf1712ae36f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\5e44379c0d348ae4ce917bf1712ae36f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\afbacaf531e02a9a047f6ed498c3a896\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\afbacaf531e02a9a047f6ed498c3a896\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\6e814cab60c086820033a88e75221f9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\6e814cab60c086820033a88e75221f9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\35a4ddb118bcdaa67332610637ef784a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\35a4ddb118bcdaa67332610637ef784a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\f0584f5e3df84a1cfc04dd74e4a4d5fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\f0584f5e3df84a1cfc04dd74e4a4d5fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\cba4919068a53e17a5b320649b7b1af4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\cba4919068a53e17a5b320649b7b1af4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\53ed3d756fb01e164d7193bc041b735a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\53ed3d756fb01e164d7193bc041b735a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\38c9aff6c8af84f9cb91bfdcf6dbb6c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\38c9aff6c8af84f9cb91bfdcf6dbb6c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\377ebe43b72497a3df3402f86690a2e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\377ebe43b72497a3df3402f86690a2e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\198b9cf99a304ed71617ba256860d862\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\198b9cf99a304ed71617ba256860d862\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\c2a399d1ea0a4904a4eb8f8ed9e3e2e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\c2a399d1ea0a4904a4eb8f8ed9e3e2e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\6b3a73c611c9734da40f2d528cbdfd83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\6b3a73c611c9734da40f2d528cbdfd83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\b2b503c29a4929defc89feb816ba612e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\b2b503c29a4929defc89feb816ba612e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\b189a5c1911c00e68e4eb5c07673bdb2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\b189a5c1911c00e68e4eb5c07673bdb2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\576bc79e90b5296c76dd99545cde6017\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\576bc79e90b5296c76dd99545cde6017\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\31923fb8d4da0ea7feb47fa7a2d895a5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\31923fb8d4da0ea7feb47fa7a2d895a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\7c50e61958f59589787d5ce3b59f836e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\7c50e61958f59589787d5ce3b59f836e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\170bcac148f97fa4492ab901f9fc9f78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\170bcac148f97fa4492ab901f9fc9f78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\c506851f8b0cb7752eb8735fd44ea4ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\c506851f8b0cb7752eb8735fd44ea4ad\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\1a2dc925ef889831caa2df1e820b81c5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\1a2dc925ef889831caa2df1e820b81c5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\465a94aee2bd7a02139ea23322b381c8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\465a94aee2bd7a02139ea23322b381c8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\c40f88a4c092363d22685e1b9d2634bd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\c40f88a4c092363d22685e1b9d2634bd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\d8fbb11aa622bb06a611c14ff68ec995\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\d8fbb11aa622bb06a611c14ff68ec995\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\0b54a039862bdb68d6df513f7d716017\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\VVITCODELABS\.gradle\caches\transforms-2\files-2.1\0b54a039862bdb68d6df513f7d716017\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\VVITCODELABS\AndroidStudioProjects\GuessTheNumber\app\src\main\AndroidManifest.xml
